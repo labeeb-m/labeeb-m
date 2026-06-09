@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋 I'm Labeeb, a Full Stack & Systems Engineer
 
-<!--
-**lbm-realty/lbm-realty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in taking products from 0 -> 1, building everything from high performance backends to responsive web architectures. I thrive on solving complex state management issues, parallelizing algorithms, and engineering highly optimized, resource-efficient solutions. 
 
-Here are some ideas to get you started:
+**🛠️ My Tech Stack:**
+* **Frontend:** React, Next.js, TypeScript
+* **Backend:** Node.js, Spring Boot, FastAPI
+* **Systems & Optimization:** C, C++, CUDA
+* **Database:** PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 What I'm currently focused on:**
+* Building and shipping production-ready web platforms.
+* Writing clean system logic and optimizing multi-threaded workflows.
+* Sharing my engineering journey and "building in public" on LinkedIn.
+
+**📫 Let's connect:**
+* [LinkedIn](https://www.linkedin.com/in/labeeb-muntasir-53826b255)
